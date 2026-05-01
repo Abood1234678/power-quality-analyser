@@ -1,0 +1,3 @@
+C:/Users/king1/OneDrive - UWE Bristol/Programming/Portfolio/cmake-build-debug/CMakeFiles/Portfolio.dir
+C:/Users/king1/OneDrive - UWE Bristol/Programming/Portfolio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/king1/OneDrive - UWE Bristol/Programming/Portfolio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
