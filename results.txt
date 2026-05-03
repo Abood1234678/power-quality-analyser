@@ -1,0 +1,29 @@
+Power Quality Waveform Analyser - Results
+==========================================
+Samples analysed: 1000
+
+RMS voltages (V):
+  Phase A: 229.8097
+  Phase B: 229.8097
+  Phase C: 229.8097
+
+Peak-to-peak voltages (V):
+  Phase A: 650.0000
+  Phase B: 649.8574
+  Phase C: 649.8574
+
+DC offsets (V):
+  Phase A: -0.000000
+  Phase B: 0.000000
+  Phase C: -0.000000
+
+Clipped samples (|V| >= 324.9 V):
+  Phase A: 20
+  Phase B: 20
+  Phase C: 20
+  Total:   60
+
+EN 50160 compliance (207 V <= V_RMS <= 253 V):
+  Phase A: COMPLIANT
+  Phase B: COMPLIANT
+  Phase C: COMPLIANT

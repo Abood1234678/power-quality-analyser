@@ -3,4 +3,5 @@ project(Portfolio C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Portfolio main.c)
+add_executable(Portfolio main.c waveform.h waveform.c io.h io.c)
+target_link_libraries(Portfolio m)

@@ -1,0 +1,8 @@
+﻿cmake-build-debug/
+.idea/
+*.exe
+*.obj
+*.o
+*-Aboodi*
+desktop.ini
+.DS_Store
