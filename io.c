@@ -1,3 +1,8 @@
+// io.c — file input/output for the Power Quality Waveform Analyser.
+// Implements load_csv() to read the 1000-row CSV into a WaveformSample
+// array, and write_results() to write the analysis report to a text file.
+// Function declarations are in io.h.
+
 #include <stdio.h>
 #include "io.h"
 #include "waveform.h"
