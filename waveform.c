@@ -1,3 +1,8 @@
+// waveform.c — analysis functions for the Power Quality Waveform Analyser.
+// Implements RMS, peak-to-peak, DC offset, clipping detection, and
+// EN 50160 compliance check for each of the three phases (A, B, C).
+// Function declarations are in waveform.h.
+
 #include <math.h>
 #include "waveform.h"
 
