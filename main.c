@@ -1,3 +1,9 @@
+// main.c — entry point for the Power Quality Waveform Analyser.
+// Allocates memory for 1000 WaveformSample structs, loads the CSV via
+// load_csv(), calls each analysis function from waveform.c, prints the
+// results to the terminal, writes a report to results.txt via write_results(),
+// and frees memory before exit.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "waveform.h"
